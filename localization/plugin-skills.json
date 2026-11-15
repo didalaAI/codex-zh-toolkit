@@ -1,0 +1,52 @@
+{
+  "skills": {
+    "plugins/browser/skills/control-in-app-browser/SKILL.md": {
+      "interface": {
+        "display_name": "应用内浏览器",
+        "short_description": "打开本地网页，检查布局或测试按钮。"
+      }
+    },
+    "plugins/chrome/skills/control-chrome/SKILL.md": {
+      "interface": {
+        "display_name": "Chrome 操作",
+        "short_description": "在当前 Chrome 会话中处理网页任务。"
+      }
+    },
+    "plugins/computer-use/skills/computer-use/SKILL.md": {
+      "interface": {
+        "display_name": "Windows 操作",
+        "short_description": "使用桌面应用完成用户指定的操作。"
+      }
+    },
+    "plugins/deep-research/skills/deep-research/SKILL.md": {
+      "interface": {
+        "display_name": "深度研究",
+        "short_description": "调查一个问题，整理证据和引用。"
+      }
+    },
+    "plugins/latex/skills/latex-compile/SKILL.md": {
+      "interface": {
+        "display_name": "编译 LaTeX",
+        "short_description": "检查排版环境并编译 TeX 文档。"
+      }
+    },
+    "plugins/latex/skills/latex-doctor/SKILL.md": {
+      "interface": {
+        "display_name": "检查 TeX 环境",
+        "short_description": "检查排版环境并编译 TeX 文档。"
+      }
+    },
+    "plugins/latex/skills/texlive-runtime-installer/SKILL.md": {
+      "interface": {
+        "display_name": "安装 TeX 运行环境",
+        "short_description": "检查排版环境并编译 TeX 文档。"
+      }
+    },
+    "plugins/visualize/skills/visualize/SKILL.md": {
+      "interface": {
+        "display_name": "交互可视化",
+        "short_description": "把数据和想法做成可操作的图形。"
+      }
+    }
+  }
+}

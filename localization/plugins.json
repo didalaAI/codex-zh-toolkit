@@ -1,0 +1,103 @@
+{
+  "marketplaceDisplayName": "OpenAI 内置",
+  "marketplaceCategories": {
+    "browser": "工程",
+    "chrome": "效率",
+    "codex-app-tools": "开发者工具",
+    "computer-use": "效率",
+    "deep-research": "研究",
+    "latex": "教育与研究",
+    "unified-computer-use": "工程",
+    "visualize": "效率"
+  },
+  "plugins": {
+    "browser": {
+      "interface": {
+        "displayName": "应用内浏览器",
+        "shortDescription": "打开本地网页，检查布局或测试按钮。",
+        "longDescription": "打开本地网页，检查布局或测试按钮。",
+        "category": "工程",
+        "defaultPrompt": [
+          "打开我的本地预览，检查登录按钮。"
+        ]
+      }
+    },
+    "chrome": {
+      "interface": {
+        "displayName": "Chrome 浏览器",
+        "shortDescription": "在当前 Chrome 会话中处理网页任务。",
+        "longDescription": "在当前 Chrome 会话中处理网页任务。",
+        "category": "效率",
+        "defaultPrompt": [
+          "在 Chrome 中整理当前页面的要点。"
+        ]
+      }
+    },
+    "codex-app-tools": {
+      "interface": {
+        "displayName": "桌面应用工具",
+        "shortDescription": "连接 Codex 桌面端提供的本地工具。",
+        "longDescription": "连接 Codex 桌面端提供的本地工具。",
+        "category": "开发者工具",
+        "defaultPrompt": [
+          "查看当前工作区。"
+        ]
+      }
+    },
+    "computer-use": {
+      "interface": {
+        "displayName": "Windows 应用控制",
+        "shortDescription": "使用桌面应用完成用户指定的操作。",
+        "longDescription": "使用桌面应用完成用户指定的操作。",
+        "category": "效率",
+        "defaultPrompt": [
+          "在记事本里整理这段文字。"
+        ]
+      }
+    },
+    "deep-research": {
+      "interface": {
+        "displayName": "深度研究",
+        "shortDescription": "调查一个问题，整理证据和引用。",
+        "longDescription": "调查一个问题，整理证据和引用。",
+        "category": "研究",
+        "defaultPrompt": [
+          "比较这两个方案，并列出资料来源。"
+        ]
+      }
+    },
+    "latex": {
+      "interface": {
+        "displayName": "LaTeX 排版",
+        "shortDescription": "检查排版环境并编译 TeX 文档。",
+        "longDescription": "检查排版环境并编译 TeX 文档。",
+        "category": "教育与研究",
+        "defaultPrompt": [
+          "帮我编译这个项目的主文档。"
+        ]
+      }
+    },
+    "unified-computer-use": {
+      "interface": {
+        "displayName": "浏览器与桌面控制",
+        "shortDescription": "在连接的浏览器或应用中执行操作。",
+        "longDescription": "在连接的浏览器或应用中执行操作。",
+        "category": "工程",
+        "defaultPrompt": [
+          "检查我的应用界面。"
+        ]
+      }
+    },
+    "visualize": {
+      "interface": {
+        "displayName": "交互可视化",
+        "shortDescription": "把数据和想法做成可操作的图形。",
+        "longDescription": "把数据和想法做成可操作的图形。",
+        "category": "效率",
+        "defaultPrompt": [
+          "把这些数据做成可筛选的图表。"
+        ]
+      }
+    }
+  }
+}

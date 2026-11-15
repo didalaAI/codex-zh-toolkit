@@ -1,0 +1,27 @@
+{
+  "imagegen": {
+    "display_name": "图像生成",
+    "short_description": "为当前项目生成或修改图片。",
+    "default_prompt": "请使用 $imagegen 完成这项任务。"
+  },
+  "openai-docs": {
+    "display_name": "OpenAI 文档",
+    "short_description": "查找官方说明，了解功能和设置。",
+    "default_prompt": "请使用 $openai-docs 完成这项任务。"
+  },
+  "review-agent": {
+    "display_name": "代码审查",
+    "short_description": "检查代码改动并列出可修复的问题。",
+    "default_prompt": "请使用 $review-agent 完成这项任务。"
+  },
+  "skill-creator": {
+    "display_name": "技能创建器",
+    "short_description": "编写或更新自定义技能。",
+    "default_prompt": "请使用 $skill-creator 完成这项任务。"
+  },
+  "skill-installer": {
+    "display_name": "技能安装器",
+    "short_description": "将选定的技能安装到本机。",
+    "default_prompt": "请使用 $skill-installer 完成这项任务。"
+  }
+}

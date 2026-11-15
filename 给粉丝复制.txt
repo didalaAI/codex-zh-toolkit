@@ -1,0 +1,5 @@
+复制你的 GitHub 仓库首页地址，再把下面这句话和地址一起发给能操作你电脑的 Codex 或豆包：
+
+你帮我把这个工具安装好并打开。请按这个 GitHub 仓库里的 AI_INSTALL.md，在我本机的 Windows 上安装、自检并启动中文版。如果要退出正在运行的 Codex，请提醒我保存工作。
+
+如果助手只能聊天：在 GitHub 首页点 Code → Download ZIP，全部解压，双击“一键安装.bat”。
